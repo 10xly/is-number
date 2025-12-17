@@ -1,0 +1,26 @@
+{
+  "name": "@is-(unknown)/is-number",
+  "version": "1.0.0",
+  "description": "Check if a value is a number primitive.",
+  "keywords": [
+    "is"
+  ],
+  "homepage": "https://github.com/is-unknown/is-number#readme",
+  "bugs": {
+    "url": "https://github.com/is-unknown/is-number/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/is-unknown/is-number.git"
+  },
+  "license": "Unlicense",
+  "author": "10x'ly made",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@extremejs/utils": "^1.0.0-beta.22"
+  }
+}
