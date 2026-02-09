@@ -1,6 +1,6 @@
 {
   "name": "@is-(unknown)/is-number",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check if a value is a number primitive.",
   "keywords": [
     "is"
@@ -21,6 +21,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@extremejs/utils": "^1.0.0-beta.22"
+    "false-value": "^2.0.6",
+    "is-actual-number": "^1.0.2",
+    "true-value": "^3.0.0"
   }
 }
